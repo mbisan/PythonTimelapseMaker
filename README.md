@@ -3,9 +3,11 @@ Python timelapse maker with quasi-GUI
 
 Dependencies: 
 
-Pillow (PIL)
-OpenCV2
-glob
+1- Pillow (PIL)
+
+2- OpenCV2
+
+3- glob
 
 Usage: Executing the program pops window to select directory, files in that directory can be seen in the Gui, and rotation can be applied to EVERY image in the folder.
 
