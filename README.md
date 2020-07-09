@@ -1,4 +1,4 @@
-# PythonTimelapseMaker
+# Python Timelapse Maker
 Python timelapse maker with quasi-GUI
 
 Dependencies: 
